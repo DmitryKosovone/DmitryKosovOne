@@ -1,22 +1,30 @@
 ## Привет! Меня зовут Дмитрий Косов 👋
 
-Я занимаюсь аналитикой данных и Data Science, и имею опыт работы с различными инструментами и методами для анализа данных, построения моделей и принятия решений на основе данных.
+### О себе:
+- Имею высшее техническое образование и обучался в аспирантуре по направлению **"Математика и механика"**.
+- Последние годы работал научным сотрудником в **Научном центре Российской Академии наук**, где занимался исследовательской деятельностью, анализом данных и применением математических методов для решения научных задач.
+- Мой опыт включает работу с большими объемами данных, построение статистических моделей и проведение экспериментов.
+- Увлекаюсь анализом данных и машинным обучением, а также стремлюсь применять свои знания в реальных проектах для достижения практических результатов.
+- Постоянно совершенствую свои навыки и изучаю новые подходы и технологии в области аналитики и Data Science.
 
-### Мой стек технологий:
+
+## Мой стек технологий:
 
 ### Языки программирования:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 
 ### Инструменты:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-43A2B1?style=for-the-badge&logo=apache-superset&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### Контроль версий:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
